@@ -6,3 +6,14 @@
 	.bs-example{
    	max-width: 200%;
     }
+
+    .form{
+    	width: 90%;	
+    }
+
+    .h2 {
+        text-align: center;
+    }
+    .h4 {
+        text-align: right;
+    }
