@@ -5,3 +5,5 @@ $(document).ready(function(){
         template: '<div class="popover" role="tooltip" style="width: 400px;"><center><h4 class="popover-content"></center><div class="data-content"></div></div>'
     });
 });
+
+console.log('prueba');
